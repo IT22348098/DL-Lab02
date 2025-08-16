@@ -1,0 +1,13 @@
+What happens when hidden nodes increase?
+
+	With very few nodes → underfitting (low accuracy).
+
+	As nodes increase → the model can learn more complex decision boundaries → higher accuracy.
+
+	Too many nodes → overfitting (training accuracy high, test accuracy worse).
+
+Pattern of accuracy when hidden nodes increase?
+
+	Generally: Low → increases → stabilizes → sometimes drops slightly if overfitting.
+
+	You’ll observe a “sweet spot” where accuracy is best.
